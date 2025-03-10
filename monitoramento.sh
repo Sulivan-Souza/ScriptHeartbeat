@@ -6,7 +6,7 @@ declare -A SERVERS=(
     ["192.168.56.10"]="Windows Server 1"
     ["192.168.56.11"]="Windows Server 2"
     ["192.168.56.40"]="Oracle Server 1"
-    ["192.168.56.11"]="Oracle Server 2"
+    ["192.168.56.41"]="Oracle Server 2"
 )
 # Arquivo de métricas para o Prometheus
 METRICS_FILE="/var/lib/node_exporter/heartbeat.prom"
