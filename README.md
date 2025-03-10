@@ -58,6 +58,5 @@ Edite essa seção conforme necessário.
 ## Autor
 Desenvolvido por https://github.com/Sulivan-Souza
 
-## Licença
-Este projeto é licenciado sob a [MIT License](LICENSE).
+
 
